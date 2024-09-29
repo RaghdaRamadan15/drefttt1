@@ -4,6 +4,7 @@ function printDifference(a, b) {
 
 function printSum(a, b) {
   console.log(a + b);
+  console.log(5 + 10);
 }
 
 printDifference(10, 5);
